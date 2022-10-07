@@ -1,0 +1,28 @@
+h1, h3{
+    font-family: 'Roboto', sans-serif;
+}
+
+h2{
+    font-family: 'Gemunu Libre', sans-serif;
+    font-size: 4em;
+}
+
+body{
+    text-align: center;
+    background-color: #BABBBD;
+}
+
+ul{
+    list-style: none;
+}
+
+input{
+    font-size: 3em;
+    text-align: center;
+}
+
+button{
+    font-size: 2em;
+    text-align: center;
+    border-radius: 10px;
+}
